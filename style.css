@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.ramis{
+    width: 1000px;
+    height: 1000px;
+    border: 2px solid black;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px
+}
+
+.box1, .box2, .box3, .box4{
+    width: 100px;
+    height: 100px;
+}
+
+.box1{
+    background-color: rgb(154, 141, 184);
+    }
+.box2{
+        background-color: rgb(196, 160, 199);
+    }
+.box3{
+        background-color: rgb(255, 168, 233);
+    }
+.box4{
+        background-color: rgb(255, 167, 167);
+    }
+
+    .mazaisramis1{
+       display: flex;
+        gap: 100px
+    }
+    .mazaisramis2{
+        display: flex;
+         gap: 200px
+     }
